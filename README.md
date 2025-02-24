@@ -50,6 +50,6 @@ Welcome to the 100 Days of DSA (Data Structures and Algorithms) challenge! This 
 
 - Graph Algorithms (BFS, DFS, Dijkstra, etc.)
 
-  # 🎖️ Acknowledgments
-  - This challenge is inspired by the #100DaysOfCode initiative.
-  - Stay committed, stay consistent, and happy coding! 🚀
+# 🎖️ Acknowledgments
+- This challenge is inspired by the #100DaysOfCode initiative.
+- Stay committed, stay consistent, and happy coding! 🚀
