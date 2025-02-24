@@ -50,6 +50,12 @@ Welcome to the 100 Days of DSA (Data Structures and Algorithms) challenge! This 
 
 - Graph Algorithms (BFS, DFS, Dijkstra, etc.)
 
+# 🛠️ Resources
+- GeeksforGeeks: https://www.geeksforgeeks.org/
+- LeetCode: https://leetcode.com/
+- Coding Ninjas: https://www.codingninjas.com/
+- Take U Forward: https://takeuforward.org/
+
 # 🎖️ Acknowledgments
 - This challenge is inspired by the #100DaysOfCode initiative.
 - Stay committed, stay consistent, and happy coding! 🚀
